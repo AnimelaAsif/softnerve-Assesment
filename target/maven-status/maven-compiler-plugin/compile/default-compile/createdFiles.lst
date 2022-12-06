@@ -1,0 +1,5 @@
+com\softnerve\springbootmysql\service\PatientDataService.class
+com\softnerve\springbootmysql\SpringbootMysqlApplication.class
+com\softnerve\springbootmysql\controller\PatientDataController.class
+com\softnerve\springbootmysql\repo\PatientInfoRepository.class
+com\softnerve\springbootmysql\entity\PatientInfoEntity.class
